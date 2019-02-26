@@ -1,4 +1,5 @@
-# IMPLEMENT ADVANCED VIRTUAL NETWORKING (20-25%)
+# IMPLEMENT ADVANCED VIRTUAL NETWORKING (20-25%) 
+
 ## Implement application load balancing 
 Configure application gateway, configure load balancing rules, implement front end IP configurations, troubleshoot load balancing.
 
