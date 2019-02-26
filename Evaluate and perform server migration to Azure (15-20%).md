@@ -12,19 +12,13 @@ Discover and assess environment; identify workloads that can and cannot be deplo
 
  
 ## Migrate servers to Azure
-Migrate by using Azure Site Recovery (ASR); migrate using P2V; configure storage; create a recovery services vault; prepare source and target environments; backup and restore data; deploy Azure Site Recovery (ASR) agent; prepare virtual network
+Migrate by using Azure Site Recovery (ASR); migrate using P2V; configure storage; create a recovery services vault; prepare source and target environments; backup and restore data; deploy Azure Site Recovery (ASR) agent; prepare virtual network.
 * [Migrate by using Azure Site Recovery (ASR)](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)
 * [Migrate using P2V](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008)
-* [Configure storage](https://docs.microsoft.com/en-us/azure/site-recovery/)
-*Then go through all the How-to Guides 
-*Create a recovery services vault	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
-prepare source and target environments	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
-backup and restore data	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
-deploy Azure Site Recovery (ASR) agent	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
-prepare virtual network	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
+* [Configure storage](https://docs.microsoft.com/en-us/azure/site-recovery/) *Then go through all the How-to Guides 
+* [Create a recovery services vault](https://docs.microsoft.com/en-us/azure/site-recovery/) Then go through all the How-to Guides 
+* [Prepare source and target environments](https://docs.microsoft.com/en-us/azure/site-recovery/) Then go through all the How-to Guides 
+* [Backup and restore data](https://docs.microsoft.com/en-us/azure/site-recovery/) Then go through all the How-to Guides 
+* [Deploy Azure Site Recovery (ASR) agent](https://docs.microsoft.com/en-us/azure/site-recovery/) Then go through all the How-to Guides 
+* [Prepare virtual network](https://docs.microsoft.com/en-us/azure/site-recovery/) Then go through all the How-to Guides 
 
