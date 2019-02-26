@@ -1,11 +1,12 @@
 # Implement and manage application services (20-25%)
 
-##Configure serverless computing 
+## Configure serverless computing 
 May include but is not limited to: Create and manage objects, manage an Logic App Resource, manage Azure Function app settings, manage Event Grid, manage Service Bus.
 * [Create and manage objects](https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio)
-* [Manage a Logic App resource](https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio)
-	https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-create-integration-account 
-	https://docs.microsoft.com/en-us/azure/connectors/connectors-native-recurrence 
+* Manage a Logic App resource
+    * (https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio)
+	* https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-create-integration-account 
+	* https://docs.microsoft.com/en-us/azure/connectors/connectors-native-recurrence 
 
 * [Manage Azure Function app settings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings)
 * [Manage Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/how-to-event-domains) 
@@ -14,7 +15,7 @@ May include but is not limited to: Create and manage objects, manage an Logic Ap
 ## Manage App Service Plan 
 May include but is not limited to: Configure application for scaling, enable monitoring and diagnostics, configure App Service Plans.
 
-Configure application for scaling	https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale 
+* [Configure application for scaling](https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale )
 
 	https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-get-started?toc=%2fazure%2fapp-service%2ftoc.json 
 
