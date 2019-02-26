@@ -1,6 +1,6 @@
 # IMPLEMENT ADVANCED VIRTUAL NETWORKING (20-25%)
 ## Implement application load balancing 
-Configure application gateway, configure load balancing rules, implement front end IP configurations, troubleshoot load balancing
+Configure application gateway, configure load balancing rules, implement front end IP configurations, troubleshoot load balancing.
 
 * Configure application gateway
     * https://docs.microsoft.com/en-us/azure/application-gateway/overview 
@@ -37,46 +37,35 @@ Configure internal load balancer, configure load balancing rules, configure publ
 
 ## Monitor and troubleshoot networking 
 Monitor on-premises connectivity, use Network resource monitoring, use Network Watcher, troubleshoot external networking, troubleshoot virtual network connectivity
-Topic	Link
-Monitor on-premises connectivity	https://docs.microsoft.com/en-us/azure/azure-monitor/overview 
 
-use Network resource monitoring	https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor 
+* [Monitor on-premises connectivity](https://docs.microsoft.com/en-us/azure/azure-monitor/overview )
+* Use Network resource monitoring
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor) 
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-performance-monitor 
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-expressroute 
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-service-endpoint 
+* Use Network Watcher
+    * https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview )
+    * https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create 
+* [Troubleshoot external networking](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)
+* [Toubleshoot virtual network connectivity](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-connectivity-portal) 
 
-	https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-performance-monitor 
+## Integrate on premises network with Azure virtual network 
+Create and configure Azure VPN Gateway, create and configure site to site VPN, configure Express Route, verify on premises connectivity, troubleshoot on premises connectivity with Azure.
+* [Create and configure Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
+* Create and configure site to site VPN
+    * https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
+    * https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell 
+    * https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli 
+* Configure Express Route
+    * https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction 
+    * https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager (complete PS and CLI as well)
 
-	https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-expressroute 
-
-	https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-service-endpoint 
-
-use Network Watcher	https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview 
-
-	https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create 
-
-troubleshoot external networking	https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity 
-
-troubleshoot virtual network connectivity	https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-connectivity-portal 
-
-Integrate on premises network with Azure virtual network 
-Create and configure Azure VPN Gateway, create and configure site to site VPN, configure Express Route, verify on premises connectivity, troubleshoot on premises connectivity with Azure
-Topic	Link
-Create and configure Azure VPN Gateway	https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways 
-
-create and configure site to site VPN	https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal 
-
-	https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell 
-
-	https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli 
-
-configure Express Route	https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction 
-
-	https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager (complete PS and CLI as well)
-
-verify on premises connectivity	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover 
-
-	https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview 
-
-troubleshoot on premises connectivity with Azure	https://docs.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview 
-
-	https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot 
+* Verify on premises connectivity	
+    * https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover 
+    * https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview 
+* Troubleshoot on premises connectivity with Azure
+    * https://docs.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview 
+    * https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot 
 
 
