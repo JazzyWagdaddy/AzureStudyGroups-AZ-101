@@ -11,16 +11,13 @@ Discover and assess environment; identify workloads that can and cannot be deplo
 * [Hands-On Lab](https://www.microsoft.com/handsonlabs/selfpacedlabs) Search for “Migrate” and Complete WS00154
 
  
-##Migrate servers to Azure
+## Migrate servers to Azure
 Migrate by using Azure Site Recovery (ASR); migrate using P2V; configure storage; create a recovery services vault; prepare source and target environments; backup and restore data; deploy Azure Site Recovery (ASR) agent; prepare virtual network
-Topic	Link
-Migrate by using Azure Site Recovery (ASR)	https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure 
-
-Migrate using P2V	https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008 
-
-Configure storage	https://docs.microsoft.com/en-us/azure/site-recovery/ 
-Then go through all the How-to Guides 
-Create a recovery services vault	https://docs.microsoft.com/en-us/azure/site-recovery/ 
+* [Migrate by using Azure Site Recovery (ASR)](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)
+* [Migrate using P2V](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008)
+* [Configure storage](https://docs.microsoft.com/en-us/azure/site-recovery/)
+*Then go through all the How-to Guides 
+*Create a recovery services vault	https://docs.microsoft.com/en-us/azure/site-recovery/ 
 Then go through all the How-to Guides 
 prepare source and target environments	https://docs.microsoft.com/en-us/azure/site-recovery/ 
 Then go through all the How-to Guides 
