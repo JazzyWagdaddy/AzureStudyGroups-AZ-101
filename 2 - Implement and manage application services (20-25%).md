@@ -1,4 +1,4 @@
-# Implement and manage application services (20-25%)
+# Implement and manage application services (20-25%) 
 
 ## Configure serverless computing 
 May include but is not limited to: Create and manage objects, manage an Logic App Resource, manage Azure Function app settings, manage Event Grid, manage Service Bus.
